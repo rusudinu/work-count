@@ -1,0 +1,7 @@
+1. add the interval change option 
+2. add the server things 
+3. add the excel table maker
+4. add the default admin code
+(delivered with the app)
+5. add the option to select wich program 
+triggers the recording or not
